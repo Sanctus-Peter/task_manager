@@ -56,5 +56,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-GitHub: [Your GitHub Profile](https://github.com/Sanctus-Peter)
+GitHub: [GitHub Profile](https://github.com/Sanctus-Peter)
 
